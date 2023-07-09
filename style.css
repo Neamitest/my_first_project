@@ -71,7 +71,7 @@ ul{
     
 }
 .menu li a:hover,.box div:hover,td:hover{
-    background-color: rgb(140, 136, 142);
+    background-color: rgb(165, 162, 167);
     cursor: pointer;
 }
 .quity{
